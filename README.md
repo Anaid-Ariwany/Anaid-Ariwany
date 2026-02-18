@@ -28,7 +28,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ---
 
 ## 📌 Featured Projects
-- 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔹 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
+1. 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔹🔹 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
 
 > More projects available on my GitHub profile.
 
@@ -37,9 +37,13 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ## 📚 Learning Journey
 I’m learning from multiple structured platforms:
 
-- _[The Odin Project Repo](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning)_    _[The Odin Project Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
-- _[Udemy: Web Development Bootcamp Repo](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning)_    _[Udemy: Web Development Bootcamp Live](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)_
-- _[Roadmap.sh Frontend Projects Repo](https://github.com/Anaid-Ariwany/Roadmap.sh-Frontend-Projects)_    _[Roadmap.sh Frontend Projects Live](https://anaid-ariwany.github.io/Roadmap.sh-Frontend-Projects/)_
+1. _[The Odin Project Repo](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning)_    🔹🔹 _[The Odin Project Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
+
+  
+2. _[Udemy: Web Development Bootcamp Repo](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning)_    🔹🔹 _[Udemy: Web Development Bootcamp Live](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)_
+
+   
+3. _[Roadmap.sh Frontend Projects Repo](https://github.com/Anaid-Ariwany/Roadmap.sh-Frontend-Projects)_    🔹🔹 _[Roadmap.sh Frontend Projects Live](https://anaid-ariwany.github.io/Roadmap.sh-Frontend-Projects/)_
 
 ---
 

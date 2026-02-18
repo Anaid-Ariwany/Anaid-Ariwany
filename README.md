@@ -28,7 +28,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ---
 
 ## 📌 Featured Projects
-- 🔹 _To be updated_
+- 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔹 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
 
 > More projects available on my GitHub profile.
 

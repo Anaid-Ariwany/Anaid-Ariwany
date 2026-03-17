@@ -28,14 +28,15 @@ I’m a self-taught developer focused on learning **full-stack web development**
 
 
 ## 📌 Featured Projects
+### Static Projects
 1. 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔸🔸 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
 
    
 2. 🔹 **_[Savoria Repo](https://github.com/Anaid-Ariwany/Savoria)_**    🔸🔸 **_[Savoria Live](https://anaid-ariwany.github.io/Savoria/)_**
 
 
-   
-3. 🔹 **_[DevLauch Repo](https://github.com/Anaid-Ariwany/DevLaunch)_**    🔸🔸 **_[DevLauch Live](https://anaid-ariwany.github.io/DevLaunch/)_**
+### Dynamic Projects 
+3. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**
 
 > _More projects available on my GitHub profile._
 

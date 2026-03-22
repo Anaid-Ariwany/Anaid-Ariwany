@@ -36,7 +36,10 @@ I’m a self-taught developer focused on learning **full-stack web development**
 
 
 ### Dynamic Projects 
-3. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**
+3. 🔹 **_[JobTracker Repo](https://github.com/Anaid-Ariwany/Job-Tracker)_**    🔸🔸 **_[JobTracker Live](https://anaid-ariwany.github.io/Job-Tracker/)_**
+
+   
+4. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**
 
 > _More projects available on my GitHub profile._
 

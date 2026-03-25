@@ -59,5 +59,4 @@ I’m learning and working on projects from multiple structured platforms:
 
 
 ## 📫 Let’s Connect
-- [GitHub:](https://github.com/Anaid-Ariwany)
-- [Portfolio:](https://anaidariwany.vercel.app/)
+- [My Portfolio](https://anaidariwany.vercel.app/)

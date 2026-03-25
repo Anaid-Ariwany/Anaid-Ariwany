@@ -4,7 +4,7 @@ Aspiring Full-Stack Developer | Building the web one project at a time
 I’m a self-taught developer focused on learning **full-stack web development** through hands-on projects and structured curricula. I enjoy turning ideas into functional, clean, and user-friendly applications.
 
 
-## 🚀 What I’m Currently Doing
+### 🚀 What I’m Currently Doing
 - Learning full-stack development (frontend → backend)
 - Building projects with HTML, CSS, JavaScript, and React
 - Improving problem-solving and Git/GitHub workflows
@@ -26,7 +26,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 - VS Code
 
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 - [My Portfolio](https://anaidariwany.vercel.app/)
 
 

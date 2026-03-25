@@ -26,6 +26,9 @@ I’m a self-taught developer focused on learning **full-stack web development**
 - VS Code
 
 
+## 📫 Let’s Connect
+- [My Portfolio](https://anaidariwany.vercel.app/)
+
 
 ## 📌 Featured Projects
 ### Static Projects
@@ -55,8 +58,3 @@ I’m learning and working on projects from multiple structured platforms:
 
    
 3. _[Roadmap.sh Frontend Projects Repo](https://github.com/Anaid-Ariwany/Roadmap.sh-Frontend-Projects)_    🔸🔸 _[Roadmap.sh Frontend Projects Live](https://anaid-ariwany.github.io/Roadmap.sh-Frontend-Projects/)_
-
-
-
-## 📫 Let’s Connect
-- [My Portfolio](https://anaidariwany.vercel.app/)

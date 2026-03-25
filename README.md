@@ -60,4 +60,4 @@ I’m learning and working on projects from multiple structured platforms:
 
 ## 📫 Let’s Connect
 - [GitHub:](https://github.com/Anaid-Ariwany)
-- Portfolio: _(coming soon 🚧)_
+- [Portfolio:](https://anaidariwany.vercel.app/)

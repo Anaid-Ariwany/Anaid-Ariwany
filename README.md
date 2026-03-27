@@ -34,12 +34,11 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ### Static Projects
 1. 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔸🔸 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
 
+
+2. 🔹 **_[JobTracker Repo](https://github.com/Anaid-Ariwany/Job-Tracker)_**    🔸🔸 **_[JobTracker Live](https://anaid-ariwany.github.io/Job-Tracker/)_**
+
    
-2. 🔹 **_[Savoria Repo](https://github.com/Anaid-Ariwany/Savoria)_**    🔸🔸 **_[Savoria Live](https://anaid-ariwany.github.io/Savoria/)_**
-
-
-### Dynamic Projects 
-3. 🔹 **_[JobTracker Repo](https://github.com/Anaid-Ariwany/Job-Tracker)_**    🔸🔸 **_[JobTracker Live](https://anaid-ariwany.github.io/Job-Tracker/)_**
+3. 🔹 **_[Calculator Repo](hhttps://github.com/Anaid-Ariwany/Calculator)_**    🔸🔸 **_[Calculator Live](hhttps://anaid-ariwany.github.io/Calculator/)_**
 
    
 4. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**

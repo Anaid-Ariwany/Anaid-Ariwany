@@ -38,7 +38,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 2. 🔹 **_[JobTracker Repo](https://github.com/Anaid-Ariwany/Job-Tracker)_**    🔸🔸 **_[JobTracker Live](https://anaid-ariwany.github.io/Job-Tracker/)_**
 
    
-3. 🔹 **_[Calculator Repo](hhttps://github.com/Anaid-Ariwany/Calculator)_**    🔸🔸 **_[Calculator Live](hhttps://anaid-ariwany.github.io/Calculator/)_**
+3. 🔹 **_[Calculator Repo](https://github.com/Anaid-Ariwany/Calculator)_**    🔸🔸 **_[Calculator Live](https://anaid-ariwany.github.io/Calculator/)_**
 
    
 4. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**

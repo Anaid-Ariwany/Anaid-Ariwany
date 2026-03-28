@@ -50,7 +50,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ## 📚 Learning Journey
 I’m learning and working on projects from multiple structured platforms:
 
-1. _[The Odin Project Repo](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning)_    🔸🔸 _[The Odin Project Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
+1. 🔸🔸 _[The Odin Project Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
 
   
 2. _[Udemy: Web Development Bootcamp Repo](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning)_    🔸🔸 _[Udemy: Web Development Bootcamp Live](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)_

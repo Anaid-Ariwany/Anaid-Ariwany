@@ -38,7 +38,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 2. 🔹 **_[JobTracker Repo](https://github.com/Anaid-Ariwany/Job-Tracker)_**    🔸🔸 **_[JobTracker Live](https://anaid-ariwany.github.io/Job-Tracker/)_**
 
    
-3. 🔹 **_[Calculator Repo](https://github.com/Anaid-Ariwany/Calculator)_**    🔸🔸 **_[Calculator Live](https://anaid-ariwany.github.io/Calculator/)_**
+3. 🔹 **_[Freelance Dashboard Repo](https://github.com/Anaid-Ariwany/Freelance-Client-Dashboard)_**    🔸🔸 **_[Freelance Dashboard Live](https://anaid-ariwany.github.io/Freelance-Client-Dashboard/)_**
 
    
 4. 🔹 **_[TechStore Repo](https://github.com/Anaid-Ariwany/TechStore)_**    🔸🔸 **_[TechStore Live](https://anaid-ariwany.github.io/TechStore/)_**
@@ -51,10 +51,13 @@ I’m a self-taught developer focused on learning **full-stack web development**
 ## 📚 Learning Journey
 I’m learning and working on projects from multiple structured platforms:
 
-1. 🔸🔸 _[The Odin Project Repo Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
-
-  
-2. 🔸🔸 _[Udemy: Web Development Bootcamp Repo Live](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)_
+1. 🔸🔸 _[The Odin Project Fundamentals Repo Live](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)_
 
    
-3. 🔸🔸 _[Roadmap.sh Frontend Projects Repo Live](https://anaid-ariwany.github.io/Roadmap.sh-Frontend-Projects/)_
+2. 🔸🔸 _[The Odin Project JS-FullStack Repo Live](https://anaid-ariwany.github.io/The-Odin-Project-Full-Stack/)_
+
+  
+3. 🔸🔸 _[Udemy: Web Development Bootcamp Repo Live](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)_
+
+   
+4. 🔸🔸 _[Roadmap.sh Frontend Projects Repo Live](https://anaid-ariwany.github.io/Roadmap.sh-Frontend-Projects/)_

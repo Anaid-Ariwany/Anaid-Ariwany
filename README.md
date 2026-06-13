@@ -32,6 +32,9 @@ I’m a self-taught developer focused on learning **full-stack web development**
 
 ## 📌 Featured Projects
 
+0. 🔹 **_[Battleship Game Repo](https://github.com/Anaid-Ariwany/The-Odin-Project-Full-Stack/tree/main/JavaScript/Projects/Battleship)_**    🔸🔸 **_[Battleship Game Live](https://anaid-ariwany.github.io/The-Odin-Project-Full-Stack/JavaScript/Projects/Battleship/)_**
+
+
 1. 🔹 **_[FlowTrack Repo](https://github.com/Anaid-Ariwany/Flow-Track)_**    🔸🔸 **_[FlowTrack Live](https://anaid-ariwany.github.io/Flow-Track/)_**
 
 

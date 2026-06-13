@@ -17,6 +17,7 @@ I’m a self-taught developer focused on learning **full-stack web development**
 - CSS3
 - Bootstrap
 - JavaScript
+- React
 
 **Backend**
 - _To be updated_
